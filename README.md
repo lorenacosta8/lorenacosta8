@@ -1,4 +1,5 @@
-### Oii, me chamo Lorena 🦁
+## Oii, me chamo Lorena 
+Atualmente estou cursando faculdade de ADS 
 
 <!--
 
